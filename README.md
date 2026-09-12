@@ -143,3 +143,16 @@ Add a new `detectXxx(text)` function in `detectors.js` following the same
 and add a `case` in `fakeMap.js`'s `_generate()` for how to fake that type.
 Nothing in `docxProcessor.js` or `index.js` needs to change — they operate
 on the generic match shape.
+
+## Web service (deployed)
+
+`src/server.js` wraps the same redaction pipeline in a small Express app:
+
+- `GET  /` — a simple upload form
+- `POST /redact` — accepts a `.docx` via multipart form-data and returns
+  the redacted `.docx` as a download
+- `GET  /health` — basic health check
+
+Run locally: `npm start` (serves on `http://localhost:3000`)
+
+Live deployment: https://scaler-assessment-ktrn.onrender.com
