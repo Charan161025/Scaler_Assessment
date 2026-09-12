@@ -1,0 +1,732 @@
+[
+  {
+    "type": "EMAIL",
+    "original": "cs.connect@kshinternational.com",
+    "replacement": "frederik30@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "cs.connect@kshinternational.com",
+    "replacement": "frederik30@hotmail.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "As certified by Kirtane & Pandit LLP",
+    "replacement": "Keebler Group"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Red Herring Prospectus are proposed to be listed on the BSE Limited",
+    "replacement": "Reilly - Schuster"
+  },
+  {
+    "type": "COMPANY",
+    "original": "National Stock Exchange of India Limited",
+    "replacement": "Hoppe-Ebert, Kling and Krajcik"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh.ipo@nuvama.com",
+    "replacement": "jany28@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@icicisecurities.com",
+    "replacement": "edwardo.douglas@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@in.mpms.mufg.com",
+    "replacement": "garrick.fisher54@yahoo.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Bhandary Metal Extrusion Private Limited",
+    "replacement": "Denesik - Steuber"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Bhandary Metal Extrusion Private Limited",
+    "replacement": "Denesik - Steuber"
+  },
+  {
+    "type": "COMPANY",
+    "original": "KSH International Private Limited",
+    "replacement": "Franey Inc"
+  },
+  {
+    "type": "EMAIL",
+    "original": "cs.connect@kshinternational.com",
+    "replacement": "frederik30@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "cs.connect@kshinternational.com",
+    "replacement": "frederik30@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh.ipo@nuvama.com",
+    "replacement": "jany28@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "customerservice.mb@nuvama.com",
+    "replacement": "minnie59@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@icicisecurities.com",
+    "replacement": "edwardo.douglas@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "customercare@icicisecurities.com",
+    "replacement": "alden74@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "kshinternational.ipo@in.mpms.mufg.com",
+    "replacement": "gracie.feest85@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "kshinternational.ipo@in.mpms.mufg.com",
+    "replacement": "gracie.feest85@hotmail.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "KSH Project Management Services Private Limited",
+    "replacement": "Franey - Metz-Powlowski"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park I Private Limited",
+    "replacement": "Beahan, Jones and Yundt-Leffler"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park III Private Limited",
+    "replacement": "Hills-Macejkovic LLC"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park IV Private Limited",
+    "replacement": "Lindgren Group"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park V Private Limited",
+    "replacement": "Beer, Bashirian and Botsford"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park VI Private Limited",
+    "replacement": "Stracke Group"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park VIII Private Limited",
+    "replacement": "Watsica Group"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park IX Private Limited",
+    "replacement": "Heathcote and Sons"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde.",
+    "replacement": "Drew Braun"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Annapurna Family Trust",
+    "replacement": "Bergstrom Inc"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Formerly Link Intime India Private Limited",
+    "replacement": "Prohaska Inc"
+  },
+  {
+    "type": "COMPANY",
+    "original": "UPI Circulars, in this case being HDFC Bank Limited",
+    "replacement": "Muller, Waters-Runolfsson and Balistreri"
+  },
+  {
+    "type": "PHONE",
+    "original": "20220803-40",
+    "replacement": "687-487-8678 x61873"
+  },
+  {
+    "type": "COMPANY",
+    "original": "CARE Analytics and Advisory Private Limited",
+    "replacement": "Rowe, Fritsch and Dooley"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde,",
+    "replacement": "Eli Beahan"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park VI Private Limited",
+    "replacement": "Stracke Group"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Hegde",
+    "replacement": "Dr. Alford Block"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde,",
+    "replacement": "Eli Beahan"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Care Analytics and Advisory Private Limited",
+    "replacement": "Rowe, Fritsch and Dooley"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Al-Ahleia Switchgear Co., Bharat Bijlee Limited",
+    "replacement": "Rath - Dickinson"
+  },
+  {
+    "type": "COMPANY",
+    "original": "CG Power and Industrial Solutions Limited",
+    "replacement": "Conroy Inc"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Georgia Transformer Corporation",
+    "replacement": "Gutkowski - Cole-Weber"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Nidec Industrial Automation India Private Limited",
+    "replacement": "Dach, Lindgren and Heaney"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Virginia Transformer Corporation",
+    "replacement": "Erdman, Dach and Ruecker"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Vedanta Limited",
+    "replacement": "Becker, Donnelly and Bailey"
+  },
+  {
+    "type": "NAME",
+    "original": "Director General",
+    "replacement": "Laila Reilly"
+  },
+  {
+    "type": "COMPANY",
+    "original": "KSH International Private Limited",
+    "replacement": "Franey Inc"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Bhandary Metal Extrusion Private Limited",
+    "replacement": "Denesik - Steuber"
+  },
+  {
+    "type": "COMPANY",
+    "original": "KSH International Private Limited",
+    "replacement": "Franey Inc"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde",
+    "replacement": "Sharon Muller"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde",
+    "replacement": "Sharon Muller"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde",
+    "replacement": "Sharon Muller"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Hegde",
+    "replacement": "Dr. Alford Block"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Hegde",
+    "replacement": "Dr. Alford Block"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Hegde",
+    "replacement": "Dr. Alford Block"
+  },
+  {
+    "type": "NAME",
+    "original": "Narayna B. Shetty",
+    "replacement": "Miss Rosalia Barton"
+  },
+  {
+    "type": "NAME",
+    "original": "Rajesh Kushal Hegde,",
+    "replacement": "Eli Beahan"
+  },
+  {
+    "type": "PHONE",
+    "original": "2022-2023",
+    "replacement": "467-388-9413 x821"
+  },
+  {
+    "type": "PHONE",
+    "original": "2024-2025",
+    "replacement": "616-338-4891 x1138"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Care Ratings Limited",
+    "replacement": "Beahan, Collier and Koelpin"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Motors Private Limited",
+    "replacement": "Pollich, Barton and Kling"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park I Private Limited",
+    "replacement": "Beahan, Jones and Yundt-Leffler"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park II Private Limited",
+    "replacement": "Goyette Inc"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park III Private Limited",
+    "replacement": "Hills-Macejkovic LLC"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park IV Private Limited",
+    "replacement": "Lindgren Group"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park V Private Limited",
+    "replacement": "Beer, Bashirian and Botsford"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park VI Private Limited",
+    "replacement": "Stracke Group"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Waterloo Industrial Park IX A Private Limited",
+    "replacement": "Bergstrom - Stark"
+  },
+  {
+    "type": "COMPANY",
+    "original": "KSH Infra Park IV Private Limited",
+    "replacement": "Kunde-Sipes Group"
+  },
+  {
+    "type": "EMAIL",
+    "original": "Sarthak.malvadkar@kshinterantional.com",
+    "replacement": "theo.schoen11@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh.ipo@nuvama.com",
+    "replacement": "jany28@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh.ipo@nuvama.com",
+    "replacement": "jany28@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "customerservice.mb@nuvama.com",
+    "replacement": "minnie59@hotmail.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Securities Limited",
+    "replacement": "Marquardt-Hermann and Sons"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91 22 6807 7100",
+    "replacement": "428.615.4621 x577"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@icicisecurities.com",
+    "replacement": "edwardo.douglas@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@icicisecurities.com",
+    "replacement": "edwardo.douglas@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "customercare@icicisecurities.com",
+    "replacement": "alden74@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh.ipo@nuvama.com",
+    "replacement": "jany28@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh.ipo@nuvama.com",
+    "replacement": "jany28@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "prakash.boricha@nuvama.com",
+    "replacement": "anthony_trantow76@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "prakash.boricha@nuvama.com",
+    "replacement": "anthony_trantow76@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sheetal.parab@nuvama.com",
+    "replacement": "karlie.rippin@yahoo.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Securities Limited",
+    "replacement": "Marquardt-Hermann and Sons"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91 22 6807 7100",
+    "replacement": "428.615.4621 x577"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@icicisecurities.com",
+    "replacement": "edwardo.douglas@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@icicisecurities.com",
+    "replacement": "edwardo.douglas@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "customercare@icicisecurities.com",
+    "replacement": "alden74@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ipo@trilegal.com",
+    "replacement": "destany77@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ksh@in.mpms.mufg.com",
+    "replacement": "garrick.fisher54@yahoo.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "kshinternational.ipo@in.mpms.mufg.com",
+    "replacement": "gracie.feest85@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "siddharth.jadhav@hdfcbank.com",
+    "replacement": "trevor20@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "siddharth.jadhav@hdfcbank.com",
+    "replacement": "trevor20@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sachin.gawade@hdfcbank.com",
+    "replacement": "kitty87@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sachin.gawade@hdfcbank.com",
+    "replacement": "kitty87@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "eric.bacha@hdfcbank.com",
+    "replacement": "samir.carter@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "eric.bacha@hdfcbank.com",
+    "replacement": "samir.carter@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "tushar.gavankar@hdfcbank.com",
+    "replacement": "hermann.auer@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "tushar.gavankar@hdfcbank.com",
+    "replacement": "hermann.auer@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pravin.teli2@hdfcbank.com",
+    "replacement": "victoria_cormier78@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pravin.teli2@hdfcbank.com",
+    "replacement": "victoria_cormier78@hotmail.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "022-68052182 ",
+    "replacement": "434.948.2235 x52882"
+  },
+  {
+    "type": "EMAIL",
+    "original": "Ipocmg@icicibank.com",
+    "replacement": "amanda_kuhn@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "Ipocmg@icicibank.com",
+    "replacement": "amanda_kuhn@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "siddharth.jadhav@hdfcbank.com",
+    "replacement": "trevor20@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "siddharth.jadhav@hdfcbank.com",
+    "replacement": "trevor20@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sachin.gawade@hdfcbank.com",
+    "replacement": "kitty87@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sachin.gawade@hdfcbank.com",
+    "replacement": "kitty87@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "eric.bacha@hdfcbank.com",
+    "replacement": "samir.carter@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "eric.bacha@hdfcbank.com",
+    "replacement": "samir.carter@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "tushar.gavankar@hdfcbank.com",
+    "replacement": "hermann.auer@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "tushar.gavankar@hdfcbank.com",
+    "replacement": "hermann.auer@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pravin.teli2@hdfcbank.com",
+    "replacement": "victoria_cormier78@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pravin.teli2@hdfcbank.com",
+    "replacement": "victoria_cormier78@hotmail.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "022-68052182 ",
+    "replacement": "434.948.2235 x52882"
+  },
+  {
+    "type": "EMAIL",
+    "original": "Ipocmg@icicibank.com",
+    "replacement": "amanda_kuhn@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "Ipocmg@icicibank.com",
+    "replacement": "amanda_kuhn@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "siddharth.jadhav@hdfcbank.com",
+    "replacement": "trevor20@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "siddharth.jadhav@hdfcbank.com",
+    "replacement": "trevor20@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sachin.gawade@hdfcbank.com",
+    "replacement": "kitty87@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sachin.gawade@hdfcbank.com",
+    "replacement": "kitty87@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "eric.bacha@hdfcbank.com",
+    "replacement": "samir.carter@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "eric.bacha@hdfcbank.com",
+    "replacement": "samir.carter@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "tushar.gavankar@hdfcbank.com",
+    "replacement": "hermann.auer@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "tushar.gavankar@hdfcbank.com",
+    "replacement": "hermann.auer@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pravin.teli2@hdfcbank.com",
+    "replacement": "victoria_cormier78@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pravin.teli2@hdfcbank.com",
+    "replacement": "victoria_cormier78@hotmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "parag.pansare@kirtanepandit.com",
+    "replacement": "tyshawn_bailey-thompson@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "parag.pansare@kirtanepandit.com",
+    "replacement": "tyshawn_bailey-thompson@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "hingnetare@gmail.com",
+    "replacement": "joan.streich24@gmail.com"
+  },
+  {
+    "type": "EMAIL",
+    "original": "hitesh.ramani@citi.com",
+    "replacement": "jaycee_jakubowski@hotmail.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91 20 2640 3100",
+    "replacement": "1-744-858-8518"
+  },
+  {
+    "type": "EMAIL",
+    "original": "pro@eximbankindia.in",
+    "replacement": "tyreek47@yahoo.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Bank Limited",
+    "replacement": "Volkman, Wolf and Abbott"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91-20-26234000",
+    "replacement": "469-583-1354 x22829"
+  },
+  {
+    "type": "EMAIL",
+    "original": "sharmila.joshi@indusind.com",
+    "replacement": "alexys80@gmail.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "91 8879770456 ",
+    "replacement": "346-402-2850 x6471"
+  },
+  {
+    "type": "EMAIL",
+    "original": "cherag.gyara@icicibank.com",
+    "replacement": "lavon_conn@yahoo.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91 20 6769 4648",
+    "replacement": "862.827.6913 x037"
+  },
+  {
+    "type": "EMAIL",
+    "original": "manisha.shukla@hdfcbank.com",
+    "replacement": "amiya_nolan72@hotmail.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91 20 2561 8211",
+    "replacement": "(761) 979-6857 x4597"
+  },
+  {
+    "type": "EMAIL",
+    "original": "rm6.ifbpune@sbi.co.in",
+    "replacement": "erling_wilderman@yahoo.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "Federal Bank Limited",
+    "replacement": "Bartoletti Group"
+  },
+  {
+    "type": "EMAIL",
+    "original": "ashishmp@federalbank.co.in",
+    "replacement": "jackie_von@yahoo.com"
+  },
+  {
+    "type": "PHONE",
+    "original": "+91 20 7157 6403",
+    "replacement": "(960) 790-7501"
+  },
+  {
+    "type": "EMAIL",
+    "original": "anand.soni@bajajfinserv.in",
+    "replacement": "catalina80@hotmail.com"
+  },
+  {
+    "type": "COMPANY",
+    "original": "SEBI, namely, CARE Ratings Limited",
+    "replacement": "Effertz, Murray and Romaguera"
+  }
+]

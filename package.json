@@ -1,0 +1,17 @@
+{
+  "name": "pii-redactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "adm-zip": "^0.6.1",
+    "compromise": "^14.17.0"
+  }
+}
